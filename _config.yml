@@ -1,0 +1,28 @@
+name: René Stalder
+favicon: null
+layout_spectrum: 0.6042087718378752
+typography_spectrum: 0.709880369482562
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6117251091636717
+  lightness: 0.24618210271000862
+  saturation: 0.43579085054807365
+  rhythmicContrast: 0.9990462851710618
+purpose: []
